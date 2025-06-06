@@ -8,8 +8,7 @@ All code has been implemented using Python and structured clearly in a Jupyter N
 - Python 3.x
 - NumPy
 - Pandas
-- SciPy
-- 
+- SciPy 
 
 Install dependencies with:
 
